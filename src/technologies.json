@@ -5294,6 +5294,24 @@
       "scripts": "consent\\.cookiebot\\.com",
       "website": "http://www.cookiebot.com"
     },
+    "CookieFirst": {
+      "cats": [
+        67
+      ],
+      "description": "CookieFirst is an GDPR and CCPA compliant consent management platform.",
+      "icon": "CookieFirst.png",
+      "js": {
+        "cookiefirst_show_settings": ""
+      },
+      "scripts": "consent\\.cookiefirst\\.com/",
+      "saas": true,
+      "pricing": [
+        "freemium",
+        "low",
+        "recurring"
+      ],
+      "website": "https://cookiefirst.com"
+    },
     "Cooladata": {
       "cats": [
         76,
