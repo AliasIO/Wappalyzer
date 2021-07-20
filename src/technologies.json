@@ -12071,6 +12071,23 @@
       "implies": "Java",
       "website": "http://www-01.ibm.com/software/lotus/products/domino"
     },
+    "LoyaltyLion": {
+      "cats": [
+        84
+      ],
+      "description": "LoyaltyLion is a data-driven ecommerce loyalty and engagement platform.",
+      "icon": "LoyaltyLion.svg",
+      "js": {
+        "loyaltylion.version": "([\\d\\-]+)\\;version:\\1"
+      },
+      "scripts": "sdk\\.loyaltylion\\.net/",
+      "saas": true,
+      "pricing": [
+        "mid",
+        "recurring"
+      ],
+      "website": "https://loyaltylion.com"
+    },
     "Lua": {
       "cats": [
         27
