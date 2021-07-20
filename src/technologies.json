@@ -20544,6 +20544,23 @@
       },
       "website": "https://www.sympa.org/"
     },
+    "Syndeca": {
+      "cats": [
+        10,
+        76
+      ],
+      "description": "Syndeca is a visual commerce platform that allows brands to quickly create engaging, actionable campaigns.",
+      "icon": "Syndeca.svg",
+      "js": {
+        "SyndecaAnalyticsObject": ""
+      },
+      "scripts": "\\.syndeca\\.com/",
+      "saas": true,
+      "pricing": [
+        "poa"
+      ],
+      "website": "https://www.syndeca.com"
+    },
     "Synerise": {
       "cats": [
         10
