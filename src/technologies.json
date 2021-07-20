@@ -1289,6 +1289,21 @@
       "scripts": "tags\\.affiliatefuture\\.com",
       "website": "http://affiliatefuture.com"
     },
+    "Affirm": {
+      "cats": [
+        41
+      ],
+      "description": "Affirm is a loan company that allows users to buy goods or services offered by online merchants and pay off those purchases in fixed monthly payments.",
+      "icon": "Affirm.svg",
+      "dom": "link[href*='.affirm.com']",
+      "js": {
+        "_affirm_config": "",
+        "affirm.Rollbar": ""
+      },
+      "scripts": "\\.affirm\\.com/js/v([\\d\\.]+)/affirm\\.js\\;version:\\1",
+      "saas": true,
+      "website": "https://www.affirm.com"
+    },
     "Afosto": {
       "cats": [
         6
