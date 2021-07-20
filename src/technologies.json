@@ -2718,6 +2718,25 @@
       ],
       "website": "https://github.com/axios/axios"
     },
+    "Axeptio": {
+      "cats": [
+        67
+      ],
+      "description": "Axeptio is a trusted third party that collects and archive users' consent in a GDPR compliant fashion.",
+      "icon": "Axeptio.png",
+      "dom": "img[src*='axeptio.imgix.net/']",
+      "js": {
+        "axeptioSDK": "",
+        "axeptioSettings": ""
+      },
+      "saas": true,
+      "pricing": [
+        "freemium",
+        "low",
+        "recurring"
+      ],
+      "website": "https://www.axeptio.eu"
+    },
     "Azion": {
       "cats": [
         31
