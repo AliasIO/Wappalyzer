@@ -21993,6 +21993,22 @@
       "scripts": "cdn\\.userway\\.org/widget.*\\.js",
       "website": "https://userway.org/"
     },
+    "UserZoom": {
+      "cats": [
+        74,
+        10
+      ],
+      "description": "UserZoom is a cloud-based user experience solution.",
+      "icon": "UserZoom.png",
+      "scripts": "\\.userzoom\\.com/",
+      "saas": true,
+      "pricing": [
+        "poa",
+        "high",
+        "recurring"
+      ],
+      "website": "https://www.userzoom.com"
+    },
     "Usercentrics": {
       "cats": [
         67

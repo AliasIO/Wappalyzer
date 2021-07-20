@@ -1,9 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
-    <title>logo wap</title>
-    <desc>Created with Sketch.</desc>
-    <g id="logo-wap" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M32,0 L64,0 L64,32 C64,49.673112 49.673112,64 32,64 L32,64 C14.326888,64 2.164332e-15,49.673112 0,32 L0,32 C-2.164332e-15,14.326888 14.326888,3.24649801e-15 32,0 Z" id="Rectangle-4-Copy-11" fill="#315EFB"></path>
-    </g>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16 0H32V16C32 24.8366 24.8366 32 16 32C7.16344 32 0 24.8366 0 16C0 7.16344 7.16344 0 16 0Z" fill="#315EFB"/>
 </svg>
