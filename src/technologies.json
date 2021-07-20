@@ -18789,6 +18789,26 @@
       "scripts": "\\.shoppy\\.gg",
       "website": "https://shoppy.gg"
     },
+    "Shoprunner": {
+      "cats": [
+        6
+      ],
+      "description": "ShopRunner is a service offering consumers free two-day shipping and returns on online orders placed with certain retailers.",
+      "icon": "Shoprunner.png",
+      "dom": "link[href*='content.shoprunner.com']",
+      "js": {
+        "_shoprunner_com.version": "([\\d\\.]+)\\;version:\\1",
+        "_shoprunner_com": ""
+      },
+      "scripts": "/shoprunner/shoprunner_init\\.js",
+      "saas": true,
+      "pricing": [
+        "freemium",
+        "low",
+        "recurring"
+      ],
+      "website": "https://www.shoprunner.com"
+    },
     "Shoptet": {
       "cats": [
         6
