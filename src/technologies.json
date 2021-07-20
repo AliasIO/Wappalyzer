@@ -14656,7 +14656,11 @@
       "cats": [
         74
       ],
+      "description": "Optimizely is an American company that provides digital experience platform software as a service.",
       "icon": "Optimizely.svg",
+      "cookies": {
+        "optimizelyEndUserId": ""
+      },
       "js": {
         "optimizely": ""
       },
