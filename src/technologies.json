@@ -7922,6 +7922,24 @@
       "scripts": "frosmo\\.easy\\.js",
       "website": "https://frosmo.com"
     },
+    "FullStory": {
+      "cats": [
+        10
+      ],
+      "description": "FullStory is a web-based digital intelligence system that helps optimize the client experience.",
+      "icon": "FullStory.svg",
+      "js": {
+        "FS.clearUserCookie": ""
+      },
+      "scripts": "\\.fullstory\\.com/",
+      "saas": true,
+      "pricing": [
+        "freemium",
+        "mid",
+        "recurring"
+      ],
+      "website": "https://www.fullstory.com"
+    },
     "Fusion Ads": {
       "cats": [
         36
