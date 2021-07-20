@@ -7246,6 +7246,23 @@
       "scripts": "fareharbor\\.com/embeds/api/",
       "website": "https://fareharbor.com"
     },
+    "Fast Checkout": {
+      "cats": [
+        6
+      ],
+      "description": "Fast Checkout is a one-click purchases for buyers without requiring a password to log in.",
+      "icon": "Fast Checkout.svg",
+      "js": {
+        "FAST_VERSION": "([\\d\\.]+)\\;version:\\1",
+        "Fast.Events": ""
+      },
+      "scripts": "js\\.fast\\.co/",
+      "saas": true,
+      "pricing": [
+        "payg"
+      ],
+      "website": "https://www.fast.co"
+    },
     "Fastcommerce": {
       "cats": [
         6
