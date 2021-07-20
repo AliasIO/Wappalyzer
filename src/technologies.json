@@ -20872,7 +20872,21 @@
         "^(?:https?:)?//tags\\.tiqcdn\\.com/",
         "/tealium/utag\\.js$"
       ],
+      "saas": true,
+      "pricing": [
+        "mid",
+        "recurring"
+      ],
       "website": "http://tealium.com"
+    },
+    "Tealium Consent Management": {
+      "cats": [
+        67
+      ],
+      "description": "Tealium Consent Management adds consent and data privacy support.",
+      "icon": "Tealium.png",
+      "dom": "script#__tealiumGDPRecScript,div#__tealiumGDPRecModal",
+      "website": "https://docs.tealium.com/platforms/getting-started/consent-management"
     },
     "TeamCity": {
       "cats": [
