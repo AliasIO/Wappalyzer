@@ -5195,6 +5195,22 @@
       "saas": true,
       "website": "https://www.contentstack.com"
     },
+    "Conversant Consent Tool": {
+      "cats": [
+        67
+      ],
+      "description": "Conversant Consent Tool is a free tool to gain GDPR and ePD compliant consent for digital advertising.",
+      "icon": "Conversant.svg",
+      "js": {
+        "conversant": ""
+      },
+      "scripts": "cdn\\.conversant\\.mgr\\.consensu\\.org/",
+      "saas": true,
+      "pricing": [
+        "freemium"
+      ],
+      "website": "https://www.conversantmedia.eu/consent-tool"
+    },
     "Convert": {
       "cats": [
         74
