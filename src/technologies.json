@@ -17043,6 +17043,23 @@
       "scripts": "\\.refersion\\.com",
       "website": "http://refersion.com"
     },
+    "Reflektion": {
+      "cats": [
+        76
+      ],
+      "description": "Reflektion is a customer centric personalisation platform that optimizes customer experiences on an individual basis in real time.",
+      "icon": "Reflektion.png",
+      "js": {
+        "RFK_DEPLOY_TIME": "",
+        "RfkParams": ""
+      },
+      "scripts": "\\.cloudfront\\.net/js/reflektion\\.js",
+      "saas": true,
+      "pricing": [
+        "poa"
+      ],
+      "website": "https://reflektion.com"
+    },
     "Regiondo": {
       "cats": [
         5,
