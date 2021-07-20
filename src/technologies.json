@@ -7157,6 +7157,22 @@
       "scripts": "cdn\\.foxycart\\.com",
       "website": "https://www.foxy.io"
     },
+    "Fabric": {
+      "cats": [
+        6
+      ],
+      "description": "Fabric is a headless commerce platform helping direct-to-consumer and B2B brands utilize an ecommerce platform designed for their needs.",
+      "icon": "Fabric.svg",
+      "meta": {
+        "powered-by": "FabricInc"
+      },
+      "dom": "img[data-src*='fabric.imgix.net/']",
+      "saas": true,
+      "pricing": [
+        "poa"
+      ],
+      "website": "https://fabric.inc"
+    },
     "Facebook": {
       "cats": [
         5
