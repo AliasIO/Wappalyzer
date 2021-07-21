@@ -6885,6 +6885,19 @@
       "icon": "Erlang.png",
       "website": "http://www.erlang.org"
     },
+    "eSSENTIAL Accessibility": {
+      "cats": [
+        68
+      ],     
+      "description": "eSSENTIAL Accessibility is a digital accessibility-as-a-service platform.",
+      "icon": "eSSENTIAL Accessibility.png",
+      "dom": " a[href*='.essentialaccessibility.com'] > img",
+      "saas": true,
+      "pricing": [
+        "poa"
+      ],
+      "website": "https://www.essentialaccessibility.com"
+    },
     "Essential JS 2": {
       "cats": [
         12,
