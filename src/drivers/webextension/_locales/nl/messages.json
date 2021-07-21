@@ -174,5 +174,7 @@
 	"categoryName80":                  { "message": "WordPress thema's" },
 	"categoryName81":                  { "message": "Shopify thema's" },
 	"categoryName82":                  { "message": "Drupal thema's" },
-	"categoryName83":                  { "message": "Browser vingerafdrukken" }
+	"categoryName83":                  { "message": "Browser vingerafdrukken" },
+	"categoryName84":                  { "message": "Loyalty & rewards" },
+	"categoryName85":                  { "message": "Feature management" }
 }

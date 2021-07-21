@@ -173,5 +173,6 @@
 	"categoryName81":                  { "message": "Shopify 테마" },
 	"categoryName82":                  { "message": "Drupal 테마" },
 	"categoryName83":                  { "message": "브라우저 지문 (fingerprinting)" },
-	"categoryName84":                  { "message": "Loyalty & rewards" }
+	"categoryName84":                  { "message": "Loyalty & rewards" },
+	"categoryName85":                  { "message": "Feature management" }
 }

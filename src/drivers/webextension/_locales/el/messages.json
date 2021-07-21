@@ -171,5 +171,6 @@
 	"categoryName81":                  { "message": "Shopify themes" },
 	"categoryName82":                  { "message": "Drupal themes" },
 	"categoryName83":                  { "message": "Browser fingerprinting" },
-	"categoryName84":                  { "message": "Loyalty & rewards" }
+	"categoryName84":                  { "message": "Loyalty & rewards" },
+	"categoryName85":                  { "message": "Feature management" }
 }

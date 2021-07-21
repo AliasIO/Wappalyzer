@@ -324,6 +324,10 @@
     "84": {
       "name": "Loyalty & rewards",
       "priority": 9
+    },
+    "85": {
+      "name": "Feature management",
+      "priority": 9
     }
   },
   "technologies": {
@@ -7484,6 +7488,25 @@
       "scripts": "\\.fitanalytics\\.com",
       "website": "https://www.fitanalytics.com"
     },
+    "FlagSmith": {
+      "cats": [
+        85
+      ],
+      "description": "FlagSmith is an open-source, fully supported feature flag & remote configuration solution, which provides hosted API to help deployment to a private cloud or on-premises environment.",
+      "icon": "FlagSmith.svg",
+      "js": {
+        "flagsmith": ""
+      },
+      "scripts": "cdn\\.flagsmith\\.com/",
+      "oss": true,
+      "saas": true,
+      "pricing": [
+        "freemium",
+        "low",
+        "recurring"
+      ],
+      "website": "https://flagsmith.com"
+    },
     "Flarum": {
       "cats": [
         2
@@ -11337,6 +11360,25 @@
       },
       "scripts": "https?://connectormwi\\.laterpay\\.net/([0-9.]+)[a-zA-z-]*/live/[\\w-]+\\.js\\;version:\\1",
       "website": "https://www.laterpay.net/"
+    },
+    "LaunchDarkly": {
+      "cats": [
+        85
+      ],
+      "description": "LaunchDarkly is a continuous delivery and feature flags as a service platform that integrates into a company's current development cycle.",
+      "icon": "LaunchDarkly.svg",
+      "dom": "link[href*='.launchdarkly.com']",
+      "js": {
+        "launchDarkly": "",
+        "DDC.WS.state": ""
+      },
+      "scripts": "(?:\\.|\\-)launchdarkly(?:\\.com/|\\-sdk\\.)",
+      "saas": true,
+      "pricing": [
+        "payg",
+        "recurring"
+      ],
+      "website": "https://launchdarkly.com"
     },
     "Launchrock": {
       "cats": [
@@ -17700,6 +17742,27 @@
         "generator": "(?:^|\\s)SPIP(?:\\s([\\d.]+(?:\\s\\[\\d+\\])?))?\\;version:\\1"
       },
       "website": "http://www.spip.net"
+    },
+    "Split": {
+      "cats": [
+        85,
+        74
+      ],
+      "description": "Split is a feature delivery platform that powers feature flag management, software experimentation, and continuous delivery.",
+      "icon": "Split.png",
+      "js": {
+        "SPLITIO_API_KEY": "",
+        "split_shopper_client": "",
+        "split_visitor_client": "",
+        "splitio": ""
+      },
+      "scripts": "\\.split\\.io/(?:sdk/split-([\\d\\.]+)\\.min\\.js)?\\;version:\\1",
+      "saas": true,
+      "pricing": [
+        "freemium",
+        "poa"
+      ],
+      "website": "https://www.split.io"
     },
     "SPNEGO": {
       "cats": [
