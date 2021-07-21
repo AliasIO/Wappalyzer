@@ -6371,19 +6371,21 @@
     },
     "Duda": {
       "cats": [
-        1
+        51
       ],
-      "html": "<div[^>]*id=\"P6iryBW0Wu\"",
       "icon": "duda.png",
       "js": {
-        "SystemID": "^.*DIRECT.*$",
-        "d_version": "^(.*)$\\;version:\\1\\;confidence:0"
+        "d_version": "^(.*)$\\;version:\\1\\;confidence:0",
+        "isDudaone": "",
+        "jquery.DM": "",
+        "window.Parameters.SiteType": "DUDAONE"
       },
       "pricing": [
         "low"
       ],
       "saas": true,
-      "website": "https://www.duda.co/website-builder"
+      "website": "https://www.duda.co/website-builder",
+      "description": "Duda is a web design platform for companies that offer web design services."
     },
     "Dukaan": {
       "cats": [
@@ -8440,7 +8442,7 @@
     },
     "GoDaddy Website Builder": {
       "cats": [
-        1
+        51
       ],
       "cookies": {
         "dps_site_id": ""
@@ -13578,13 +13580,11 @@
     },
     "MyWebsite": {
       "cats": [
-        1
+        51
       ],
-      "description": "MyWebsite is website builder designed for easy editing and fast results.",
-      "icon": "Ionos-by-1and1-logo.svg",
+      "implies": "Duda",
       "js": {
-        "SystemID": "^.*1AND1.*$",
-        "d_version": "^(.*)$\\;version:\\1\\;confidence:0"
+        "SystemID": "^.*1AND1.*$"
       },
       "meta": {
         "generator": "^.*MyWebsite.*$\\;version:8"
@@ -13595,7 +13595,9 @@
       ],
       "saas": true,
       "scripts": "\\/\\/integration\\.mywebsite-editor\\.com.*\\.js\\;version:9",
-      "website": "https://www.ionos.com"
+      "website": "https://www.ionos.com",
+      "description": "MyWebsite is website builder designed for easy editing and fast results.",
+      "icon": "Ionos-by-1and1-logo.svg"
     },
     "Mynetcap": {
       "cats": [
